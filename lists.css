@@ -1,0 +1,29 @@
+body {
+    background: rgb(185, 184, 184);
+}
+
+ul#unstyled { 
+    list-style: none;
+}
+
+h1 {
+    text-align: left;
+}
+
+.blocktext {
+    display: table-footer-group;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 6em; */
+}
+
+.content {
+    width: 80%;
+}
+
+.box{
+    background: #FFF;
+    float: left;
+    width: 30%;
+    margin: 0; 
+}
